@@ -1,4 +1,5 @@
 {
   "name": "venture-sandbox",
-  "private": true
+  "private": true,
+  "workspaces": ["apps/", "packages/"]
 }
